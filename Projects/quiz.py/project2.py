@@ -48,6 +48,6 @@ elif answer == "B":
 
     # end of quiz
 if fastfood_points > healthyfood_points:
-    print("you like fast food!")
+    print("YOU LIKE FAST FOOD!")
 elif fastfood_points < healthyfood_points:\
-    print("you like healthy foods!")
+    print("YOU LIKE HEALTHY FOODS!")

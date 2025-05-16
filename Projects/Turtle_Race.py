@@ -40,7 +40,7 @@ t4 = create_sprite("basketball",x4,y4)
 
 # Section 4 - Racing
 # TODO - set how much each variable changes by and increase the number of repeats to at least 30
-# TODO - explain here which sprites are faster or slower
+# TODO - The water bottle sprite (x2) is the fastest because the average speed it could go would be 12.5 which is the most consistent speed.
 for i in range(30):
     x1 += random.randint(7, 13)
     x2 += random.randint(10,15)
